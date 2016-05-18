@@ -3,6 +3,6 @@
   <cron>
    <url>/ping</url>
     <description>Ping the URLS</description>
-    <schedule>every 1 minute</schedule>
+    <schedule>every s minutes</schedule>
   </cron>
 </cronentries>
